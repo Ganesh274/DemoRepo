@@ -6,4 +6,9 @@ public class LoginPage {
 	{
 		System.out.println("Login Success.....");
 	}
+	
+	public void LoginStatuse()
+	{
+		System.out.println("Login Success.....");
+	}
 }
